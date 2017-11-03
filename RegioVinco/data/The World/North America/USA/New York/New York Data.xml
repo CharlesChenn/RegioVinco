@@ -1,0 +1,59 @@
+<region name="New York">
+<sub_region red="220" green="220" blue="220" name="Clinton" capital="Olympia"/>
+<sub_region red="218" green="218" blue="218" name="Essex" capital="Salem"/>
+<sub_region red="216" green="216" blue="216" name="Warren" capital="Sacramento"/>
+<sub_region red="214" green="214" blue="214" name="Saratoga" capital="Carson City"/>
+<sub_region red="212" green="212" blue="212" name="Washington" capital="Boise"/>
+<sub_region red="210" green="210" blue="210" name="Schenectaday" capital="Helena"/>
+<sub_region red="208" green="208" blue="208" name="Rensselaer" capital="Cheyenne"/>
+<sub_region red="206" green="206" blue="206" name="Albady" capital="Salt Lake City"/>
+<sub_region red="204" green="204" blue="204" name="Columbia" capital="Denver"/>
+<sub_region red="202" green="202" blue="202" name="Greene" capital="Phoenix"/>
+<sub_region red="200" green="200" blue="200" name="Dutchess" capital="Santa Fe"/>
+<sub_region red="198" green="198" blue="198" name="Ulster" capital="Austin"/>
+<sub_region red="196" green="196" blue="196" name="Putnam" capital="Oklahoma City"/>
+<sub_region red="194" green="194" blue="194" name="Orange" capital="Topeka"/>
+<sub_region red="192" green="192" blue="192" name="Westchester" capital="Lincoln"/>
+<sub_region red="190" green="190" blue="190" name="Rockland" capital="Pierre"/>
+<sub_region red="188" green="188" blue="188" name="Nassau" capital="Bismarck"/>
+<sub_region red="186" green="186" blue="186" name="Suffolk" capital="St. Paul"/>
+<sub_region red="184" green="184" blue="184" name="Franklin" capital="Des Moines"/>
+<sub_region red="182" green="182" blue="182" name="St. Lawrence" capital="Jefferson City"/>
+<sub_region red="180" green="180" blue="180" name="Hamilton" capital="Little Rock"/>
+<sub_region red="178" green="178" blue="178" name="Herkimer" capital="Baton Rouge"/>
+<sub_region red="176" green="176" blue="176" name="Fulton" capital="Jackson"/>
+<sub_region red="174" green="174" blue="174" name="Montgomery" capital="Montgomery"/>
+<sub_region red="172" green="172" blue="172" name="Ostego" capital="Nashville"/>
+<sub_region red="170" green="170" blue="170" name="Schoharie" capital="Frankfurt"/>
+<sub_region red="168" green="168" blue="168" name="Delaware" capital="Springfield"/>
+<sub_region red="166" green="166" blue="166" name="Sullivan" capital="Indianapolis"/>
+<sub_region red="164" green="164" blue="164" name="Jefferson" capital="Madison"/>
+<sub_region red="162" green="162" blue="162" name="Lewis" capital="Lansing"/>
+<sub_region red="160" green="160" blue="160" name="Oswego" capital="Columbus"/>
+<sub_region red="158" green="158" blue="158" name="Oneida" capital="Charleston"/>
+<sub_region red="156" green="156" blue="156" name="Cayuga" capital="Richmond"/>
+<sub_region red="154" green="154" blue="154" name="Onondaga" capital="Raleigh"/>
+<sub_region red="152" green="152" blue="152" name="Tompkins" capital="Columbia"/>
+<sub_region red="150" green="150" blue="150" name="Cortland" capital="Atlanta"/>
+<sub_region red="148" green="148" blue="148" name="Chenango" capital="Tallahessee"/>
+<sub_region red="146" green="146" blue="146" name="Madison" capital="Washington D.C."/>
+<sub_region red="144" green="144" blue="144" name="Tioga" capital="Dover"/>
+<sub_region red="142" green="142" blue="142" name="Broome" capital="Hamisburg"/>
+<sub_region red="140" green="140" blue="140" name="Niagara" capital="Trenton"/>
+<sub_region red="138" green="138" blue="138" name="Orleans" capital="Albany"/>
+<sub_region red="136" green="136" blue="136" name="Monroe" capital="Hartford"/>
+<sub_region red="134" green="134" blue="134" name="Wayne" capital="Providence"/>
+<sub_region red="132" green="132" blue="132" name="Erie" capital="Boston"/>
+<sub_region red="130" green="130" blue="130" name="Genesse" capital="Montpelier"/>
+<sub_region red="128" green="128" blue="128" name="Wyoming" capital="Concord"/>
+<sub_region red="126" green="126" blue="126" name="Livingston" capital="Augusta"/>
+<sub_region red="124" green="124" blue="124" name="Ontario" capital="Concord"/>
+<sub_region red="122" green="122" blue="122" name="Yates" capital="Concord"/>
+<sub_region red="120" green="120" blue="120" name="Seneca" capital="Concord"/>
+<sub_region red="118" green="118" blue="118" name="Schuyler" capital="Concord"/>
+<sub_region red="116" green="116" blue="116" name="Chautauqua" capital="Concord"/>
+<sub_region red="114" green="114" blue="114" name="Cattaraugus" capital="Concord"/>
+<sub_region red="112" green="112" blue="112" name="Allegany" capital="Concord"/>
+<sub_region red="110" green="110" blue="110" name="Steuben" capital="Concord"/>
+<sub_region red="108" green="108" blue="108" name="Chemung" capital="Concord"/>
+</region>

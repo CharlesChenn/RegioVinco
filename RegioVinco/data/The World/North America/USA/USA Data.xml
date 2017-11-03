@@ -1,0 +1,50 @@
+<region name="North America">
+	<sub_region red="220" green="220" blue="220" name="Washington" capital="Olympia"/>
+	<sub_region red="218" green="218" blue="218" name="Oregon" capital="Salem"/>
+	<sub_region red="216" green="216" blue="216" name="California" capital="Sacramento"/>
+	<sub_region red="214" green="214" blue="214" name="Nevada" capital="Carson City"/>
+	<sub_region red="212" green="212" blue="212" name="Idaho" capital="Boise"/>
+	<sub_region red="210" green="210" blue="210" name="Montana" capital="Helena"/>
+	<sub_region red="208" green="208" blue="208" name="Wyoming" capital="Cheyenne"/>
+	<sub_region red="206" green="206" blue="206" name="Utah" capital="Salt Lake City"/>
+	<sub_region red="204" green="204" blue="204" name="Colorado" capital="Denver"/>
+	<sub_region red="202" green="202" blue="202" name="Arizona" capital="Phoenix"/>
+	<sub_region red="200" green="200" blue="200" name="New Mexico" capital="Santa Fe"/>
+	<sub_region red="198" green="198" blue="198" name="Texas" capital="Austin"/>
+	<sub_region red="196" green="196" blue="196" name="Oklahoma" capital="Oklahoma City"/>
+	<sub_region red="194" green="194" blue="194" name="Kansas" capital="Topeka"/>
+	<sub_region red="192" green="192" blue="192" name="Nebraska" capital="Lincoln"/>
+	<sub_region red="190" green="190" blue="190" name="South Dakota" capital="Pierre"/>
+	<sub_region red="188" green="188" blue="188" name="North Dakota" capital="Bismarck"/>
+	<sub_region red="186" green="186" blue="186" name="Minnesota" capital="St. Paul"/>
+	<sub_region red="184" green="184" blue="184" name="Iowa" capital="Des Moines"/>
+	<sub_region red="182" green="182" blue="182" name="Missouri" capital="Jefferson City"/>
+	<sub_region red="180" green="180" blue="180" name="Arkansas" capital="Little Rock"/>
+	<sub_region red="178" green="178" blue="178" name="Louisiana" capital="Baton Rouge"/>
+	<sub_region red="176" green="176" blue="176" name="Mississippi" capital="Jackson"/>
+	<sub_region red="174" green="174" blue="174" name="Alabama" capital="Montgomery"/>
+	<sub_region red="172" green="172" blue="172" name="Tennessee" capital="Nashville"/>
+	<sub_region red="170" green="170" blue="170" name="Kentucky" capital="Frankfurt"/>
+	<sub_region red="168" green="168" blue="168" name="Illinois" capital="Springfield"/>
+	<sub_region red="166" green="166" blue="166" name="Indiana" capital="Indianapolis"/>
+	<sub_region red="164" green="164" blue="164" name="Wisconsin" capital="Madison"/>
+	<sub_region red="162" green="162" blue="162" name="Michigan" capital="Lansing"/>
+	<sub_region red="160" green="160" blue="160" name="Ohio" capital="Columbus"/>
+	<sub_region red="158" green="158" blue="158" name="West Virginia" capital="Charleston"/>
+	<sub_region red="156" green="156" blue="156" name="Virginia" capital="Richmond"/>
+	<sub_region red="154" green="154" blue="154" name="North Carolina" capital="Raleigh"/>
+	<sub_region red="152" green="152" blue="152" name="South Carolina" capital="Columbia"/>
+	<sub_region red="150" green="150" blue="150" name="Georgia" capital="Atlanta"/>
+	<sub_region red="148" green="148" blue="148" name="Florida" capital="Tallahessee"/>
+	<sub_region red="146" green="146" blue="146" name="Maryland" capital="Washington D.C."/>
+	<sub_region red="144" green="144" blue="144" name="Delaware" capital="Dover"/>
+	<sub_region red="142" green="142" blue="142" name="Pennsylvania" capital="Hamisburg"/>
+	<sub_region red="140" green="140" blue="140" name="New Jersey" capital="Trenton"/>
+	<sub_region red="138" green="138" blue="138" name="New York" capital="Albany"/>
+	<sub_region red="136" green="136" blue="136" name="Connecticut" capital="Hartford"/>
+	<sub_region red="134" green="134" blue="134" name="Rhode Island" capital="Providence"/>
+	<sub_region red="132" green="132" blue="132" name="Massachussets" capital="Boston"/>
+	<sub_region red="130" green="130" blue="130" name="Vermont" capital="Montpelier"/>
+	<sub_region red="128" green="128" blue="128" name="New Hampshire" capital="Concord"/>
+	<sub_region red="126" green="126" blue="126" name="Maine" capital="Augusta"/>
+</region>

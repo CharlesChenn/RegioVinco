@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="RegioVinco.jnlp">
+  <information>
+    <title>RegioVinco</title>
+    <vendor>McKillaGorilla</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="RegioVinco.jar" size="34966" download="eager" />
+    <jar href="lib\AudioManager.jar" size="5411" download="eager" />
+    <jar href="lib\The_PACG_Framework.jar" size="15620" download="eager" />
+    <jar href="lib\WorldData.jar" size="10544" download="eager" />
+    <jar href="lib\WorldImportExport.jar" size="9323" download="eager" />
+    <jar href="lib\XMLUtilities.jar" size="7418" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="RegioVinco" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="regio_vinco.RegioVinco"  name="RegioVinco" />
+  <update check="always"/>
+</jnlp>

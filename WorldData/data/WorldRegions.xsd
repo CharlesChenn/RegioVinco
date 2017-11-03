@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    
+    <!-- FIRST WE LIST ALL THE REGIONS -->
+    <xs:attributeGroup name="region_attribute_group">
+        <xs:attribute name="id" type="xs:string" use="required" />
+        <xs:attribute name="name" type="xs:string" use="required" />
+        <xs:attribute name="type" type="xs:string" use="required" />
+        <xs:attribute name="capital" type="xs:string" use="optional" />
+    </xs:attributeGroup>
+    <xs:attributeGroup name="id">
+        <xs:attribute name="id" type="xs:string" />
+    </xs:attributeGroup>
+    <xs:element name="world_regions">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="regions_list">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="region" minOccurs="0" maxOccurs="5000">
+                                <xs:complexType>
+                                    <xs:attributeGroup ref="region_attribute_group" />
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+    
+                <!-- AND THEN WE MAP THEM TO ONE ANOTHER -->
+                <xs:element name="regions_mappings">
+                    <xs:complexType>
+                        <xs:sequence minOccurs="0" maxOccurs="5000">
+                            <xs:element name="region">
+                                <xs:complexType>
+                                    <xs:sequence minOccurs="0" maxOccurs="5000">
+                                        <xs:element name="sub_region">
+                                            <xs:complexType>
+                                                <xs:attributeGroup ref="id" />
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attributeGroup ref="id" />
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>    
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
